@@ -1,5 +1,6 @@
-# ACF Field Type Template
+# ACF Custom Icon Selector
 
-Welcome to the official Advanced Custom Fields - Field Type Template repository on GitHub. Here you will find a starter-kit for creating a new field type plugin.
+A simple drop down that will list custom icons based on an array. It outputs a font icon class. To convert the custom SVG icon to a font icon you can use [Icomoon](https://icomoon.io/app/) 
 
-Looking for documentation? Please read the [Creating a new field type guide](https://www.advancedcustomfields.com/resources/creating-a-new-field-type/).
+TODO:
+- Create better way to import array of icons
