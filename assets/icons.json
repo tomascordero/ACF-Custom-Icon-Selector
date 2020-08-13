@@ -1,0 +1,143 @@
+{
+  "icons": [
+  {
+    "class": "alcohol-bottle",
+    "name": "Alcohol Bottle",
+    "hex": "&#xe900;"
+  },
+  {
+    "class": "announce",
+    "name": "Announce",
+    "hex": "&#xe901;"
+  },
+  {
+    "class": "annual-report",
+    "name": "Annual Report",
+    "hex": "&#xe902;"
+  },
+  {
+    "class": "anti-bottle",
+    "name": "Anti Bottle",
+    "hex": "&#xe903;"
+  },
+  {
+    "class": "arrow",
+    "name": "Arrow",
+    "hex": "&#xe904;"
+  },
+  {
+    "class": "binoculars",
+    "name": "binoculars",
+    "hex": "&#xe905;"
+  },
+  {
+    "class": "brain",
+    "name": "brain",
+    "hex": "&#xe906;"
+  },
+  {
+    "class": "calendar",
+    "name": "calendar",
+    "hex": "&#xe907;"
+  },
+  {
+    "class": "check-list",
+    "name": "check list",
+    "hex": "&#xe908;"
+  },
+  {
+    "class": "close",
+    "name": "close",
+    "hex": "&#xe909;"
+  },
+  {
+    "class": "exclamaition-point",
+    "name": "exclamaition point",
+    "hex": "&#xe90a;"
+  },
+  {
+    "class": "face",
+    "name": "face",
+    "hex": "&#xe90b;"
+  },
+  {
+    "class": "file-folder",
+    "name": "file folder",
+    "hex": "&#xe90c;"
+  },
+  {
+    "class": "game-controller",
+    "name": "game controller",
+    "hex": "&#xe90d;"
+  },
+  {
+    "class": "gavel",
+    "name": "gavel",
+    "hex": "&#xe90e;"
+  },
+  {
+    "class": "hand",
+    "name": "hand",
+    "hex": "&#xe90f;"
+  },
+  {
+    "class": "hand-shake",
+    "name": "hand shake",
+    "hex": "&#xe910;"
+  },
+  {
+    "class": "kid",
+    "name": "kid",
+    "hex": "&#xe911;"
+  },
+  {
+    "class": "newspaper",
+    "name": "newspaper",
+    "hex": "&#xe912;"
+  },
+  {
+    "class": "nine",
+    "name": "nine",
+    "hex": "&#xe913;"
+  },
+  {
+    "class": "pdf",
+    "name": "pdf",
+    "hex": "&#xe914;"
+  },
+  {
+    "class": "plus",
+    "name": "plus",
+    "hex": "&#xe915;"
+  },
+  {
+    "class": "profile",
+    "name": "profile",
+    "hex": "&#xe916;"
+  },
+  {
+    "class": "question-mark",
+    "name": "question mark",
+    "hex": "&#xe917;"
+  },
+  {
+    "class": "sad-face",
+    "name": "sad face",
+    "hex": "&#xe918;"
+  },
+  {
+    "class": "search",
+    "name": "search",
+    "hex": "&#xe919;"
+  },
+  {
+    "class": "speech-bubbles",
+    "name": "speech bubbles",
+    "hex": "&#xe91a;"
+  },
+  {
+    "class": "video",
+    "name": "video",
+    "hex": "&#xe91b;"
+  }
+]}
